@@ -21,7 +21,7 @@ If you are using another server change "https://parseapi.back4app.com" in:
     
 ## TEST
 
-Create a Class called: "Test" in your Parse-Server and add a column called "text".
+Create a Class called: "TestClass" in your Parse-Server and add a column called "message".
 
 After, add a row and put the "Hello World" text in the column & run the application.
 
