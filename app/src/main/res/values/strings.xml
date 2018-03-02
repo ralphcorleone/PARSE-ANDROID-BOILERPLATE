@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParseImplementationSample</string>
+
+    //Pega el ID de tu aplicación de Parse en lugar de **
+    <string name="parse_app_id">**</string>
+
+    //Pega el Client Key de tu aplicación de Parse en lugar de **
+    <string name="parse_client_key">**</string>
+
+    <string name="parse_server_url">https://parseapi.back4app.com/</string>
+    <string name="test_parse_text">Probar Parse</string>
+</resources>
